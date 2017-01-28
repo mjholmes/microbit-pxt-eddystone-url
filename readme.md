@@ -11,4 +11,4 @@ The .hex file can be loaded into PXT editor using "import project" or you can sw
 
 The .hex file can also be loaded directly onto your microbit if you want to just try things out, just drag and rop onto your micro:bit drive. The url this sample code broadcasts is fixed, you will need to load the file into the editor and change it if you want to broadcast a different url. One improvement might be to enable the UART service and read new urls over bluetooth....
 
-A [short video is available on YoutTube](https://youtu.be/2lY6KEGvVrI) showing this code in action next to an iPhone running the [Locate app](https://itunes.apple.com/gb/app/locate-beacon/id738709014).
+A [short video is available on YouTube](https://youtu.be/2lY6KEGvVrI) showing this code in action next to an iPhone running the [Locate app](https://itunes.apple.com/gb/app/locate-beacon/id738709014).
